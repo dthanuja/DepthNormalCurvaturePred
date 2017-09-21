@@ -1,7 +1,12 @@
 # DepthNormalCurvaturePred
 Joint Prediction of Depths, Normals and Surface Curvature from RGB Images using CNNs
 
-Code and models to be added soon
+#### Requirements
+Theano (commit bd1a12ed706) 
+
+Lasagne (commit  54e3ae1f1c)
+
+
 
 ### Curvature Estimatation Code
 
