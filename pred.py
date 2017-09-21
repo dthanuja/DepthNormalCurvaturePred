@@ -380,14 +380,14 @@ def test():
             c5[:,:,1] = j2/2 +0.5;
             c5[:,:,2] = k2/2 +0.5;
             plt.figure()
-            plt.imshow(c5)  
-#            plt.figure()
-#            gt = np.exp(np.squeeze(datatd[itr])*logdepths_std);
-#            plt.imshow(gt,cmap=cm.jet,vmin=0,vmax=9)
+            plt.imshow(c5)
+            plt.show()
+
 
            
         
    
 #            plt.colorbar()
         
-
+if __name__ == '__main__':
+   test()
