@@ -6,6 +6,7 @@ Theano (commit bd1a12ed706)
 
 Lasagne (commit  54e3ae1f1c)
 
+Lasagne model https://goo.gl/GLngzV
 
 
 ### Curvature Estimatation Code
