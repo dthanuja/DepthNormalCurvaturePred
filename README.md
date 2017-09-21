@@ -2,9 +2,9 @@
 Joint Prediction of Depths, Normals and Surface Curvature from RGB Images using CNNs
 
 #### Requirements
-[Theano] (https://github.com/Theano/Theano) (commit bd1a12ed706) 
+[Theano](https://github.com/Theano/Theano) (commit bd1a12ed706) 
 
-[Lasagne] (https://github.com/Lasagne/Lasagne) (commit  54e3ae1f1c)
+[Lasagne](https://github.com/Lasagne/Lasagne) (commit  54e3ae1f1c)
 
 Lasagne model https://goo.gl/GLngzV
 
