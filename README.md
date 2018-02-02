@@ -6,7 +6,7 @@ Joint Prediction of Depths, Normals and Surface Curvature from RGB Images using 
 
 [Lasagne](https://github.com/Lasagne/Lasagne) (commit  54e3ae1f1c)
 
-Lasagne model https://goo.gl/GLngzV
+Lasagne [model](https://drive.google.com/file/d/1eTdo0W-7Ope-6Bx9nSIQUdVj9GO2KhgL/view?usp=sharing)
 
 
 ### Curvature Estimatation Code
